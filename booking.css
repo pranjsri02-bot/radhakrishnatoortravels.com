@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto','Arial','sans-serif';
+}
+body{
+    background-color: rgb(255, 255, 255);
+}
+#nav{
+    background-color:  #121f50;
+    height: 700px;
+    border-color: black;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 200px;
+}
+#heading{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    text-align: center;
+    padding: 20px;
+}
+#text{
+    color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-right: 50px;
+}
+#placeholder{
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: 10px;
+}
+button{
+    margin-left: 500px;
+
+}
